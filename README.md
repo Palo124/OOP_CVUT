@@ -1,5 +1,6 @@
 # OOP_CVUT
 Tasks from course OOP at CVUT
+Created by Pavol Paštrnák
 Second task which is creating unique usernames same as in CVUT KOS system
 
 # Create Usernames
