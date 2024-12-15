@@ -45,7 +45,11 @@ The function takes a dictionary containing:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd create_usernames
+   cd OOP_CVUT
+   ```
+3. Test the code by:
+   ```bash
+   python #testing.py
    ```
 
 ## Usage
@@ -64,9 +68,3 @@ The function takes a dictionary containing:
    print(result)
    ```
 
-## Testing
-
-A test case is included in the `__main__` section of the script. Run the script to verify that the function works as expected:
-```bash
-python create_usernames.py
-```
