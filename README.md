@@ -70,6 +70,3 @@ A test case is included in the `__main__` section of the script. Run the script 
 ```bash
 python create_usernames.py
 ```
-
-
-"# OOP_CVUT" 
