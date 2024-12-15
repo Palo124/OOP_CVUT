@@ -1,6 +1,6 @@
 # OOP_CVUT
 Tasks from course OOP at CVUT
-Created by Pavol Paštrnák
+
 Second task which is creating unique usernames same as in CVUT KOS system
 
 # Create Usernames
@@ -69,3 +69,4 @@ The function takes a dictionary containing:
    print(result)
    ```
 
+Created by Pavol Paštrnák 2024
